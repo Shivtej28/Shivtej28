@@ -5,7 +5,7 @@ I am currently in Third Year studying Computer Science and Engineering. I have k
 #### What I'm up to?
 
 
-- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Android-black.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Kotlin-blue.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Django-darkgreen.svg?style=for-the-badge)
+- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Android-black.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Kotlin-blue.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/React-darkgreen.svg?style=for-the-badge)
 
 
 -  🎓 I’m looking for *Internship*
