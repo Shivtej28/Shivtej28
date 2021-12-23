@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shivtej Deshmukh
 
-I am currently in Third Year studying Computer Science and Engineering. I have keen interest in Android Development.
+I am currently in Fourth Year studying Computer Science and Engineering. I have keen interest in Web Development And Android Development.
 
 #### What I'm up to?
 
