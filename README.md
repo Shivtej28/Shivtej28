@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Shivtej Deshmukh
+# Hi there 👋 I'm Shivtej Deshmukh
 
 I am currently in Fourth Year studying Computer Science and Engineering. I have keen interest in Web Development And Android Development.
 
-#### What I'm up to?
+### What I'm up to?
 
 
 - ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Kotlin-blue.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/React-darkgreen.svg?style=for-the-badge)
