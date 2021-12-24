@@ -5,7 +5,7 @@ I am currently in Fourth Year studying Computer Science and Engineering. I have 
 #### What I'm up to?
 
 
-- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Android-black.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Kotlin-blue.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/React-darkgreen.svg?style=for-the-badge)
+- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Kotlin-blue.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/React-darkgreen.svg?style=for-the-badge)
 
 
 -  🎓 I’m looking for *Internship*
@@ -14,10 +14,11 @@ I am currently in Fourth Year studying Computer Science and Engineering. I have 
 
 ### 👷‍♂️ Recent Project
 
+- [APQ - Android Project App (Playstore Link)](https://play.google.com/store/apps/details?id=com.shivtej.androidprojects)
 - [Tinder Clone 🔥](https://github.com/Shivtej28/TinderClone)
-- [Cash Register💴](https://github.com/Shivtej28/Cash-Register)
+- [Cooking Receipe App](https://github.com/Shivtej28/cooking-ninja)
 - [Social Media App💵](https://github.com/Shivtej28/Social_app)
-- [Movie Details App](https://github.com/Shivtej28/find-movies)
+- [My Money App](https://github.com/Shivtej28/my-money)
 
 ### Let's Connect 😀
 
